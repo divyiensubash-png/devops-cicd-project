@@ -1,7 +1,9 @@
-{ 
-  "name": "devops-project", 
-  "version": "1.0.0", 
-  "scripts": { 
-    "test": "node test.js" 
-  } 
+{  
+  "name": "devops-project",  
+  "version": "1.0.0",  
+  "scripts": {  
+    "test": "node test.js",  
+    "build": "echo 'No build needed - static site'",  
+    "build:azure": "echo 'No build needed - static site'"  
+  }  
 } 
